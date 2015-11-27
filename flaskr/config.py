@@ -1,5 +1,5 @@
 DATABASE = '/tmp/flaskr.db'
 DEBUG = True
-SECRET_KEY = 'development key'
-USERNAME = 'admin'
-PASSWORD = 'default'
+SECRET_KEY = 'password1'
+ADMIN_USERNAME = 'admin'
+ADMIN_PASSWORD = 'default'
