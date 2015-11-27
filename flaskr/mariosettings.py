@@ -1,0 +1,2 @@
+USERNAME = 'ClockworkPirate'
+PASSWORD = 'ItalyIsGreat'
